@@ -1,0 +1,11 @@
+{
+  "generator-teams": {
+    "promptValues": {
+      "developer": "vasalis",
+      "unitTestsEnabled": false,
+      "useAzureAppInsights": true
+    },
+    "libraryName": "cognitiveBot",
+    "generator-version": "3.0.3"
+  }
+}
