@@ -2,4 +2,4 @@ botSubDomain=transcription.cxunicorn.com
 botName=precorder
 projectPrefix=cxtranscription
 azureLocation=westeurope
-acrName=cxtranscriptionservice
+acrName=precorder
